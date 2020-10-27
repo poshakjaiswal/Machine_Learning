@@ -12,7 +12,7 @@ Learning Resources for Practicing Machine Learning and Deep Learning
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
-![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
+![Jupyter notebook example](Resources/Images/running_code_med.png "Jupyter notebook example")
 
 ### Notice
 Please note that this repository is currently maintained by a skeleton crew of maintainers from the Jupyter community. We encourage users to transition to JupyterLab, where more immediate support can occur. Our approach moving forward will be:
